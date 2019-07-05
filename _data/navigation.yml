@@ -12,6 +12,7 @@ main:
 # navigation
 navi:
   - title: Collections
+    url: /Collections/
     children:
       - title: Statistics
         url: /Collections/Statistics/
