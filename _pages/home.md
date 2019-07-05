@@ -1,6 +1,12 @@
 ---
-layout: single
+layout: splash
 permalink: /
+title: "Zachary McCaw"
+excerpt: "<br><br><br><br><br>"
 header:
-  image: /assets/images/Yosemite.jpeg
+  overlay_image: /assets/images/Yosemite.jpeg
+  caption: Merced River, ‎Yosemite, CA.
+  actions:
+    - label: "About"
+      url: "/About/"
 ---
