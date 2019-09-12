@@ -2,7 +2,7 @@
 layout: single
 title:  "Hypothesis Testing"
 date:   2019-07-04
-categories: Inference
+categories: [Inference]
 sidebar: 
  nav: "navi"
 ---

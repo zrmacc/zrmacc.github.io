@@ -56,8 +56,6 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/zachary-mccaw-16638b39/"
 
-
-
 # Collections
 collections:
   statistics:
@@ -65,6 +63,9 @@ collections:
     permalink: /Collections/Statistics/:name 
 
 collections_dir: collections
+
+# Categories
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

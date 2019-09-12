@@ -2,7 +2,7 @@
 layout: single
 title:  "Generalized Linear Models"
 date:   2019-07-04
-categories: Regression
+categories: [Regression]
 sidebar: 
  nav: "navi"
 ---
