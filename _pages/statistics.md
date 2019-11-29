@@ -8,6 +8,15 @@ sidebar:
 
 {% assign sortedPages = site.statistics | sort: 'title' %}
 
+<h2> Asymptotics </h2>
+{% for page in sortedPages %}
+	{% if page.categories contains 'Asymptotics' %}
+<h4>
+	<a href="{{ page.url }}">{{ page.title }}</a>
+</h4>
+	{% endif %}
+{% endfor %}
+
 <h2> Inference </h2>
 {% for page in sortedPages %}
 	{% if page.categories contains 'Inference' %}

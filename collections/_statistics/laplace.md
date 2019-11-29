@@ -2,7 +2,7 @@
 layout: single
 title:  "Laplace Expansion"
 date:   2019-11-24
-categories: [Mathematical]
+categories: [Asymptotics]
 sidebar: 
  nav: "navi"
 ---

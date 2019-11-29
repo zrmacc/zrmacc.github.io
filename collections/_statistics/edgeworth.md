@@ -2,7 +2,7 @@
 layout: single
 title:  "Edgeworth Expansion"
 date:   2019-11-02
-categories: [Mathematical]
+categories: [Asymptotics]
 sidebar: 
  nav: "navi"
 ---
