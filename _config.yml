@@ -40,7 +40,7 @@ search: true
 author:
   name: "Zachary R. McCaw"
   bio: "Ph.D. in Biostatistics"
-  location: "Boston, MA"
+  location: "Mountain View, CA"
   avatar: "/assets/images/Avatar.jpeg"
   links:
     - label: "CV"
@@ -55,6 +55,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/zachary-mccaw-16638b39/"
+    - label: "ORCID"
+      icon: "fas fa-book"
+      url: "https://orcid.org/0000-0002-2006-9828"
 
 # Collections
 collections:
