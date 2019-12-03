@@ -6,7 +6,7 @@ sidebar:
  nav: "navi"
 ---
 
-This page will help to organize notes I have prepared while studying statistics and genetics.  
+This page will organize collections of notes by subject. 
 
 <h2>
   <a href="/Collections/Statistics/">Statistics</a>
