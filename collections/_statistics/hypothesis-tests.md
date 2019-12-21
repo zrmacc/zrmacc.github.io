@@ -1,13 +1,13 @@
 ---
 layout: single
-title:  "Hypothesis Testing"
+title:  "Hypothesis Tests"
 date:   2019-07-04
 categories: [Inference]
 sidebar: 
  nav: "navi"
 ---
 
-<object data="/assets/statistics/Hypothesis Testing.pdf" type="application/pdf" width="100%" height="100%">
+<object data="/assets/statistics/Hypothesis Tests.pdf" type="application/pdf" width="100%" height="100%">
 </object>
 
 <h2> See also: </h2>
