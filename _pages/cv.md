@@ -1,6 +1,6 @@
 ---
 layout: single
-date: 2019-07-04
+date: 2019-12-24
 permalink: /CV/
 ---
 

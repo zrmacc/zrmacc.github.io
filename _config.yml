@@ -28,7 +28,7 @@ plugins:
   - jekyll-include-cache
 
 # theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.16.4"
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 
 # Include pages
 include: ["_pages"]
@@ -56,7 +56,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/zachary-mccaw-16638b39/"
     - label: "ORCID"
-      icon: "fas fa-book"
+      icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-2006-9828"
 
 # Collections
