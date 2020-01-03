@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Generalized Linear Models"
-date:   2019-07-04
-categories: [Regression]
+date:   2020-01-03
+categories: [Methods]
 sidebar: 
  nav: "navi"
 ---

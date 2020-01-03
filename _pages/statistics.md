@@ -35,9 +35,9 @@ sidebar:
 	{% endif %}
 {% endfor %}
 
-<h2> Regression </h2>
+<h2> Methods </h2>
 {% for page in sortedPages %}
-	{% if page.categories contains 'Regression' %}
+	{% if page.categories contains 'Methods' %}
 <h4>
 	<a href="{{ page.url }}">{{ page.title }}</a>
 </h4>

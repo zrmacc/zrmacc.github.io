@@ -2,7 +2,7 @@
 layout: single
 title:  "Linear Mixed Models"
 date:   2019-09-12
-categories: [Regression]
+categories: [Methods]
 sidebar: 
  nav: "navi"
 ---

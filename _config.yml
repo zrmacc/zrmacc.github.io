@@ -68,7 +68,7 @@ collections:
 collections_dir: collections
 
 # Categories
-categories: [Asymptotics, Inference, Mathematical, Regression]
+categories: [Asymptotics, Inference, Mathematical, Methods]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

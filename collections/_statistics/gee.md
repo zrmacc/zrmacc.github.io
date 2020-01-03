@@ -2,7 +2,7 @@
 layout: single
 title:  "Generalized Estimating Equations"
 date:   2019-09-11
-categories: [Regression]
+categories: [Methods]
 sidebar: 
  nav: "navi"
 ---
