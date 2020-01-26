@@ -12,5 +12,9 @@ sidebar:
 
 <h2> See also: </h2>
 <h4>
-	<a href="hypothesis-tests"> Hypothesis Tests </a>
+	<ul>
+		<li><a href="gee"> GEE </a></li>
+		<li><a href="hypothesis-tests"> Hypothesis Tests </a></li>
+	</ul>
+	<br>
 </h4>
