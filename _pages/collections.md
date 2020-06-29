@@ -9,5 +9,9 @@ sidebar:
 This page will organize collections of notes by subject. 
 
 <h2>
+  <a href="/Collections/Eventtimes/">Event Times</a>
+</h2>
+
+<h2>
   <a href="/Collections/Statistics/">Statistics</a>
 </h2>

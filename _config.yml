@@ -63,12 +63,15 @@ author:
 collections:
   statistics:
     output: true 
-    permalink: /Collections/Statistics/:name 
+    permalink: /Collections/Statistics/:name
+  eventtimes:
+    output: true
+    permalink: /Collections/Eventtimes/:name
 
 collections_dir: collections
 
 # Categories
-categories: [Asymptotics, Inference, Mathematical, Methods]
+categories: [Asymptotics, Implementation, Inference, Mathematical, Methods, Stochastic]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
