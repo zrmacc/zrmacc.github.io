@@ -28,7 +28,7 @@ plugins:
   - jekyll-include-cache
 
 # theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 
 # Include pages
 include: ["_pages"]
