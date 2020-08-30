@@ -25,3 +25,12 @@ sidebar:
 </h4>
 	{% endif %}
 {% endfor %}
+
+<h2> Survival </h2>
+{% for page in sortedPages %}
+	{% if page.categories contains 'Survival' %}
+<h4>
+	<a href="{{ page.url }}">{{ page.title }}</a>
+</h4>
+	{% endif %}
+{% endfor %}
