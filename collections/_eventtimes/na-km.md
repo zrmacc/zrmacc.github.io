@@ -2,7 +2,7 @@
 layout: single
 title:  "Nelson-Aalen and Kaplan-Meier"
 date:   2020-10-17
-categories: [Stochastic, Survival]
+categories: [Survival]
 sidebar: 
  nav: "navi"
 ---
