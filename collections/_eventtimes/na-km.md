@@ -13,6 +13,7 @@ sidebar:
 <h2> See also: </h2>
 <h4>
 	<ul>
+		<li><a href="comparing-survival-curves"> Comparing Survival Curves </a></li>
 		<li><a href="martingales"> Martingales </a></li>
 	</ul>
 	<br>
