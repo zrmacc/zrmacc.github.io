@@ -2,7 +2,7 @@
 layout: single
 title:  "Adjusted R2"
 date:   2021-01-03
-categories: [Methods]
+categories: [Applied]
 sidebar: 
  nav: "navi"
 ---

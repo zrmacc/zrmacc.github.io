@@ -71,7 +71,7 @@ collections:
 collections_dir: collections
 
 # Categories
-categories: [Asymptotics, Implementation, Inference, Mathematical, Methods, Stochastic, Survival]
+categories: [Asymptotics, Applied, Inference, Mathematical, Methods, Stochastic, Survival]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

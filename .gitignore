@@ -1,3 +1,11 @@
+
+# Directories
 _site
+vendor
+
+# Files
+.bundle
 .sass-cache
 .jekyll-metadata
+.gitignore
+
