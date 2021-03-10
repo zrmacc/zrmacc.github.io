@@ -12,4 +12,5 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "kramdown", ">= 2.3.0"
+  gem "nokogiri", ">= 1.11.0"
 end
