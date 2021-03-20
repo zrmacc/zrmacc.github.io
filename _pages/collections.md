@@ -13,5 +13,9 @@ This page will organize collections of notes by subject.
 </h2>
 
 <h2>
+  <a href="/Collections/Mathematics/">Mathematics</a>
+</h2>
+
+<h2>
   <a href="/Collections/Statistics/">Statistics</a>
 </h2>

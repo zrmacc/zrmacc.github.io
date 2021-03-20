@@ -16,5 +16,7 @@ navi:
     children:
       - title: Event Times
         url: /Collections/Eventtimes/
+      - title: Mathematics
+        url: /Collections/Mathematics/
       - title: Statistics
         url: /Collections/Statistics/

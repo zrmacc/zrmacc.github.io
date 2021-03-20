@@ -47,7 +47,7 @@ sidebar:
 
 <h2 style="font-size:1.20em"> Mathematical </h2>
 {% for page in sortedPages %}
-	{% if page.categories contains 'Mathematical' %}
+	{% if page.categories contains 'Mathematics' %}
 <h3 style="font-size:0.75em">
 <ul>
 	<li><a href="{{ page.url }}">{{ page.title }}</a></li>

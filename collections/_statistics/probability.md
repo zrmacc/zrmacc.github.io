@@ -2,7 +2,7 @@
 layout: single
 title:  "Summary of Probability"
 date:   2019-10-26
-categories: [Mathematical]
+categories: [Mathematics]
 sidebar: 
  nav: "navi"
 ---

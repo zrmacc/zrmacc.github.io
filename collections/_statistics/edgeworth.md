@@ -12,5 +12,5 @@ sidebar:
 
 <h2> See also: </h2>
 <h4>
-	<a href="taylor"> Taylor Expansion </a>
+	<a href="/Collections/Mathematics/taylor"> Taylor Expansion </a>
 </h4>

@@ -12,5 +12,5 @@ sidebar:
 
 <h2> See also: </h2>
 <h4>
-	<a href="projection"> Projection </a>
+	<a href="/Collections/Mathematics/projection"> Projection </a>
 </h4>

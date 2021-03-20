@@ -2,7 +2,7 @@
 layout: single
 title:  "Quadratic Forms"
 date:   2019-12-14
-categories: [Mathematical]
+categories: [Mathematics]
 sidebar: 
  nav: "navi"
 ---

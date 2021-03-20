@@ -2,7 +2,7 @@
 layout: single
 title:  "EM Algorithm"
 date:   2020-09-12
-categories: [Mathematical]
+categories: [Mathematics]
 sidebar: 
  nav: "navi"
 ---
