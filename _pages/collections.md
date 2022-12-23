@@ -6,10 +6,14 @@ sidebar:
  nav: "navi"
 ---
 
-This page will organize collections of notes by subject. 
+Collections of notes by subject. 
 
 <h2>
   <a href="/Collections/Eventtimes/">Event Times</a>
+</h2>
+
+<h2>
+  <a href="/Collections/Genetics/">Genetics</a>
 </h2>
 
 <h2>

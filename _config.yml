@@ -64,6 +64,9 @@ collections:
   eventtimes:
     output: true
     permalink: /Collections/Eventtimes/:name
+  genetics:
+    output: true
+    permalink: /Collections/Genetics/:name
   mathematics:
     output: true
     permalink: /Collections/Mathematics/:name
@@ -74,7 +77,7 @@ collections:
 collections_dir: collections
 
 # Categories
-categories: [Asymptotics, Applied, Inference, Mathematics, Methods, Stochastic, Survival]
+categories: [Asymptotics, Applied, Genetics, Inference, Mathematics, Methods, Stochastic, Survival]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
