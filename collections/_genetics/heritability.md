@@ -7,4 +7,6 @@ sidebar:
  nav: "navi"
 ---
 
-<iframe src="/assets/genetics/Heritability.pdf" width=800 height=600></iframe>
+<div>
+    <iframe src="/assets/genetics/Heritability.pdf" width="100%" height="500"></iframe>
+</div>
