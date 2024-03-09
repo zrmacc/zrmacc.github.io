@@ -21,5 +21,9 @@ Collections of notes by subject.
 </h2>
 
 <h2>
+  <a href="/Collections/Machinelearning/">Machine Learning</a>
+</h2>
+
+<h2>
   <a href="/Collections/Statistics/">Statistics</a>
 </h2>

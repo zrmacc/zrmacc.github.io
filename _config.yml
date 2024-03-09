@@ -70,6 +70,9 @@ collections:
   mathematics:
     output: true
     permalink: /Collections/Mathematics/:name
+  machinelearning:
+    output: true
+    permalink: /Collections/Machinelearning/:name
   statistics:
     output: true 
     permalink: /Collections/Statistics/:name
@@ -77,7 +80,7 @@ collections:
 collections_dir: collections
 
 # Categories
-categories: [Asymptotics, Applied, Genetics, Inference, Mathematics, Methods, Stochastic, Survival]
+categories: [Asymptotics, Applied, Genetics, Inference, Mathematics, Machinelearning, Methods, Stochastic, Survival]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

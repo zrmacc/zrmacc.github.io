@@ -20,6 +20,8 @@ navi:
         url: /Collections/Eventtimes/
       - title: Genetics
         url: /Collections/Genetics/
+      - title: Machine Learning
+        url: /Collections/Machinelearning/
       - title: Mathematics
         url: /Collections/Mathematics/
       - title: Statistics
