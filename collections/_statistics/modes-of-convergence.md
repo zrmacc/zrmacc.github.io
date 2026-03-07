@@ -7,7 +7,7 @@ sidebar:
  nav: "navi"
 ---
 
-<object data="/assets/statistics/Modes of Convergence.pdf" type="application/pdf" width="100%" height="100%">
+<object data="/assets/statistics/Modes-of-Convergence.pdf" type="application/pdf" width="100%" height="100%">
 </object>
 
 <h2> See also: </h2>

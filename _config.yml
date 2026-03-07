@@ -28,7 +28,7 @@ plugins:
   - jekyll-include-cache
 
 # theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 # Include pages
 include: ["_pages"]
@@ -49,10 +49,10 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:zmccaw@alumni.harvard.edu"
-    - label: "Github"
+    - label: "GitHub"
       icon: "fab fa-github-square"
       url: "https://github.com/zrmacc"
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/zachary-mccaw-16638b39/"
     - label: "ORCID"

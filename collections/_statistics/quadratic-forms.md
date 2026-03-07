@@ -7,5 +7,5 @@ sidebar:
  nav: "navi"
 ---
 
-<object data="/assets/statistics/Quadratic Forms.pdf" type="application/pdf" width="100%" height="100%">
+<object data="/assets/statistics/Quadratic-Forms.pdf" type="application/pdf" width="100%" height="100%">
 </object>

@@ -8,8 +8,6 @@ main:
     url: /Collections/
   - title: "CV"
     url: /CV/
-  # - title: "CV"
-  #  url: /CV/
 
 # navigation
 navi:
