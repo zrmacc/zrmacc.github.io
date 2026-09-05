@@ -9,11 +9,11 @@ author_profile: true
 
 ## Experience
 
-Zachary McCaw is a machine learning scientist and biostatistician. His research interests include statistical inference, representation learning, genetic discovery, and event-time analysis. He has co-authored 70+ scientific publications, is a co-inventor on three granted U.S. patents, and has developed multiple statistical methods and open-source R packages.
+Zachary McCaw is a machine learning scientist and biostatistician. His research focuses on making scientific discovery more reliable and interpretable through new statistical and machine-learning methods. He has co-authored 70+ scientific publications, is a co-inventor on three granted U.S. patents, and has developed multiple statistical methods and open-source R packages.
 
 <ul class="about-experience">
 {% for position in site.data.experience %}
-  <li><strong>{{ position.organization }} — {{ position.role }}:</strong> {{ position.summary }}</li>
+  <li><strong>{{ position.organization }}, {{ position.dates }} — {{ position.role }}:</strong> {{ position.summary }}</li>
 {% endfor %}
 </ul>
 
