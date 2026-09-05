@@ -1,0 +1,11 @@
+<ul class="note-list">
+  {% for note in include.notes %}
+    {% if include.category %}
+      {% if note.categories contains include.category %}
+        <li><a href="{{ note.url }}">{{ note.title }}</a></li>
+      {% endif %}
+    {% else %}
+      <li><a href="{{ note.url }}">{{ note.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

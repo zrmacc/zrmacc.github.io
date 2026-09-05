@@ -1,0 +1,92 @@
+- name: Machine Learning
+  slug: machine-learning
+  description: Machine learning methods that create, evaluate, or leverage learned phenotypes for valid scientific discovery.
+  papers:
+    - title: "Synthetic surrogates improve power for genome-wide association studies of partially missing phenotypes in population biobanks"
+      short_title: "Synthetic surrogates"
+      venue: Nature Genetics
+      year: 2024
+      url: https://doi.org/10.1038/s41588-024-01793-9
+      summary: Joint modeling of observed phenotypes and learned surrogate outcomes can improve association power while preserving valid inference.
+    - title: "DeepNull: Modeling non-linear covariate effects improves phenotype prediction and association power"
+      short_title: DeepNull
+      venue: Nature Communications
+      year: 2022
+      url: https://doi.org/10.1038/s41467-021-27930-0
+      summary: Nonlinear covariate adjustment with machine learning improves phenotype prediction and can increase power in genetic association studies.
+    - title: "EmbedGEM: A framework to evaluate the utility of embeddings for genetic discovery"
+      short_title: EmbedGEM
+      venue: Bioinformatics Advances
+      year: 2024
+      url: https://doi.org/10.1093/bioadv/vbae135
+      summary: A framework for evaluating learned representations through both their genetic association strength and their clinical relevance.
+    - title: "Large-scale machine learning-based phenotyping significantly improves genomic discovery for optic nerve head morphology"
+      short_title: "ML phenotyping of optic nerve morphology"
+      venue: American Journal of Human Genetics
+      year: 2021
+      url: https://doi.org/10.1016/j.ajhg.2021.05.004
+      summary: Deep-learning-derived optic nerve phenotypes substantially expand genetic discovery for glaucoma-related morphology.
+    - title: "Inference of chronic obstructive pulmonary disease with deep learning on raw spirograms identifies new genetic loci and improves risk models"
+      short_title: "Deep learning on raw spirograms"
+      venue: Nature Genetics
+      year: 2023
+      url: https://doi.org/10.1038/s41588-023-01372-4
+      summary: Deep learning on raw lung-function traces improves COPD phenotyping, genetic discovery, and risk prediction.
+    - title: "Unsupervised representation learning improves genomic discovery for lung function and respiratory disease prediction"
+      short_title: "Representation learning for lung function"
+      venue: Nature Genetics
+      year: 2024
+      url: https://doi.org/10.1038/s41588-024-01831-6
+      summary: Self-supervised representations of spirograms capture lung-function variation that supports discovery and respiratory-disease prediction.
+
+- name: Statistical Genetics
+  slug: statistical-genetics
+  description: Statistical methods for robust, scalable discovery across common and rare genetic variation.
+  papers:
+    - title: "An allelic-series rare-variant association test for candidate-gene discovery"
+      short_title: COAST
+      venue: American Journal of Human Genetics
+      year: 2023
+      url: https://doi.org/10.1016/j.ajhg.2023.07.001
+      summary: A gene-level rare-variant test designed to identify allelic series with increasingly large effects for increasingly deleterious variants.
+    - title: "A Scalable Framework for Identifying Allelic Series from Summary Statistics"
+      short_title: COAST-SS
+      venue: American Journal of Human Genetics
+      year: 2025
+      url: https://doi.org/10.1016/j.ajhg.2025.09.012
+      summary: A summary-statistics framework that extends allelic-series testing to large cohorts and meta-analytic settings.
+    - title: "Operating Characteristics of the Rank-Based Inverse Normal Transformation for Quantitative Trait Analysis in Genome-Wide Association Studies"
+      short_title: RNOmni
+      venue: Biometrics
+      year: 2019
+      url: https://doi.org/10.1111/biom.13214
+      summary: A robust omnibus testing strategy for quantitative-trait association when regression residuals are non-normal.
+    - title: "Pitfalls in performing genome-wide association studies on ratio traits"
+      short_title: "Ratio-trait GWAS"
+      venue: Human Genetics and Genomics Advances
+      year: 2025
+      url: https://doi.org/10.1016/j.xhgg.2025.100406
+      summary: An analysis of how ratio phenotypes can induce misleading associations and complicate interpretation in genome-wide studies.
+
+- name: Biostatistics
+  slug: biostatistics
+  description: Statistical methods for interpretable inference in clinical studies, event-time analysis, and large-scale testing.
+  papers:
+    - title: "Nonparametric estimation of the total treatment effect with multiple outcomes in the presence of terminal events"
+      short_title: "Total treatment effects with terminal events"
+      venue: Biometrics
+      year: 2026
+      url: https://doi.org/10.1093/biomtc/ujag053
+      summary: A nonparametric estimand that integrates treatment effects across multiple outcomes while accounting for terminal events.
+    - title: "Practical Recommendations on Quantifying and Interpreting Treatment Effects in the Presence of Terminal Competing Risks: A Review"
+      short_title: "Treatment effects with competing risks"
+      venue: JAMA Cardiology
+      year: 2021
+      url: https://doi.org/10.1001/jamacardio.2021.4932
+      summary: Practical guidance for choosing interpretable treatment-effect summaries when terminal competing risks are present.
+    - title: "Testing a Large Number of Composite Null Hypotheses Using Conditionally Symmetric Multidimensional Gaussian Mixtures in Genome-Wide Studies"
+      short_title: csmGmm
+      venue: Journal of the American Statistical Association
+      year: 2024
+      url: https://doi.org/10.1080/01621459.2024.2422124
+      summary: A multidimensional Gaussian-mixture approach for testing many composite null hypotheses while controlling false discoveries.
