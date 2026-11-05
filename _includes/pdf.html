@@ -1,0 +1,5 @@
+<iframe
+  class="pdf-frame"
+  src="{{ include.src | default: page.pdf | relative_url }}"
+  title="{{ include.title | default: page.title | default: 'PDF' | escape }}"
+></iframe>

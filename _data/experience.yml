@@ -1,0 +1,19 @@
+- organization: Causal Labs
+  role: Member of Technical Staff
+  dates: 2026–present
+  summary: Developing learned world models to support planning and policy learning.
+
+- organization: Voleon
+  role: Senior Member of Research Staff
+  dates: 2025–2026
+  summary: Researched transformer architectures and self-supervised representations for financial forecasting.
+
+- organization: Insitro
+  role: Staff Machine Learning Scientist
+  dates: 2021–2025
+  summary: Developed phenotypic representations for genetic discovery, risk stratification, and treatment response prediction.
+
+- organization: Google
+  role: Data Scientist
+  dates: 2019–2021
+  summary: Developed methods for genetic discovery from machine-learning-derived phenotypes, and for causal inference on developer productivity.

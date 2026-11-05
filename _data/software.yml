@@ -1,0 +1,48 @@
+- name: COAST / AllelicSeries
+  url: https://github.com/insitro/AllelicSeries
+  domain: Statistical Genetics
+  description: Gene-level rare-variant association testing designed to identify allelic series in which increasingly deleterious coding variants have increasingly large phenotypic effects.
+  papers:
+    - label: COAST
+      url: https://doi.org/10.1016/j.ajhg.2023.07.001
+    - label: COAST-SS
+      url: https://doi.org/10.1016/j.ajhg.2025.09.012
+
+- name: RNOmni
+  url: https://github.com/zrmacc/RNOmni
+  domain: Robust Inference
+  description: Robust association testing for continuous traits with non-normal residuals using direct, indirect, and omnibus rank-based inverse normal transformation tests.
+  papers:
+    - label: Biometrics paper
+      url: https://doi.org/10.1111/biom.13214
+
+- name: SurrogateRegression
+  url: https://github.com/zrmacc/SurrogateRegression
+  domain: Prediction-Based Inference
+  description: Joint modeling of a partially observed target outcome and a correlated surrogate outcome to improve power while maintaining valid inference.
+  papers:
+    - label: Biometrics paper
+      url: https://doi.org/10.1111/biom.13629
+    - label: Nature Genetics paper
+      url: https://doi.org/10.1038/s41588-024-01793-9
+
+- name: MGMM
+  url: https://github.com/zrmacc/MGMM
+  domain: Missing Data
+  description: Missingness-aware Gaussian mixture modeling for parameter estimation, clustering, and imputation with incomplete multivariate data.
+  papers:
+    - label: BMC Bioinformatics paper
+      url: https://doi.org/10.1186/s12859-022-04740-9
+
+- name: Temporal
+  url: https://github.com/zrmacc/Temporal
+  domain: Event-Time Analysis
+  description: Parametric time-to-event analysis and between-group comparisons of interpretable survival summaries, including mean, median, and restricted mean survival.
+
+- name: MCC
+  url: https://github.com/zrmacc/MCC
+  domain: Recurrent Events
+  description: Estimation and inference for mean cumulative count curves and their areas for recurrent-event outcomes subject to censoring and terminal events.
+  papers:
+    - label: Method paper
+      url: https://doi.org/10.48550/arXiv.2606.24024

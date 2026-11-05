@@ -1,0 +1,15 @@
+<ol class="career-arc" aria-label="Professional experience">
+  {% if include.reverse %}
+    {% assign positions = site.data.experience | reverse %}
+  {% else %}
+    {% assign positions = site.data.experience %}
+  {% endif %}
+  {% for position in positions %}
+    <li class="career-arc__item">
+      <p class="career-arc__dates">{{ position.dates }}</p>
+      <h3>{{ position.organization }}</h3>
+      <p class="career-arc__role">{{ position.role }}</p>
+      {% if include.details %}<p class="career-arc__summary">{{ position.summary }}</p>{% endif %}
+    </li>
+  {% endfor %}
+</ol>

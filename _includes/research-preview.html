@@ -1,0 +1,11 @@
+<div class="research-preview">
+  {% for group in site.data.research %}
+    {% assign paper = group.papers | first %}
+    <article class="research-preview__item">
+      <p class="eyebrow">{{ group.name }}</p>
+      <h3><a href="{{ paper.url }}">{{ paper.short_title }}</a></h3>
+      <p>{{ paper.summary }}</p>
+      <p class="item-meta">{{ paper.venue }} · {{ paper.year }}</p>
+    </article>
+  {% endfor %}
+</div>

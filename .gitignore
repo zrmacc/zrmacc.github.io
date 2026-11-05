@@ -1,0 +1,13 @@
+.DS_Store
+.bundle/
+_site/
+vendor/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.Rhistory
+
+# Local working notes; not published with the site
+review.md
+instructions.md
+docs/

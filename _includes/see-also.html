@@ -1,0 +1,10 @@
+{% if page.see_also %}
+<nav class="see-also" aria-label="See also">
+  <h2>See also</h2>
+  <ul class="note-list">
+    {% for item in page.see_also %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+{% endif %}

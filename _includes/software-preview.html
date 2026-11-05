@@ -1,0 +1,12 @@
+<div class="software-preview">
+  {% assign featured_software = "COAST / AllelicSeries|SurrogateRegression|MCC" | split: "|" %}
+  {% for project in site.data.software %}
+    {% if featured_software contains project.name %}
+      <article class="software-preview__item">
+        <p class="eyebrow">{{ project.domain }}</p>
+        <h3><a href="{{ project.url }}">{{ project.name }}</a></h3>
+        <p>{{ project.description }}</p>
+      </article>
+    {% endif %}
+  {% endfor %}
+</div>
